@@ -22,3 +22,8 @@ Requisitos para execução dos arquivos:
    
 7. Executar o arquivo producer.py:
    python3 producer.py
+   
+   Bem, eu escolhi python e Kafka porque ambos são mais rápidos e escaláveis que outras tecnologias, principalmente por ser um arquivo com mais de 6GB de tamanho e outra linguagem poderia travar na leitura.
+   A solução tomada foi um kafka instalado na minha própria máquina, entretanto se utilizar o Azure ou AWS poderia enviar várias mensagens simultâneas para consumir acredito que um processo no AWS lambda iria resolver de forma bem rápida isto.
+   
+   Grato pela oportunidade.
