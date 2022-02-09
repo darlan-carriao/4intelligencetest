@@ -1,5 +1,22 @@
-# Teste de Python elaborado para a empresa 4intelligence
+# Teste de Python 
 # Autor: Darlan Carrião
+
+O teste consiste no seguinte:
+
+Neste desafio você precisa calcular o número médio de estrelas de cada restaurante.
+
+Você irá trabalhar com um conjunto de dados presente no Yelp Dataset, o arquivo yelp_academic_dataset_review.json (https://www.kaggle.com/yelp-dataset/yelp-dataset?select=yelp_academic_dataset_review.json)
+
+Construa um script (de preferência em Python ou em Go) que leia o arquivo JSON acima e publique o resultado para outro script processar os dados.
+
+Para processamento dos dados, construa um script que calcule o número médio de stars para cada business_ide salve o resultado em um banco de dados SQL.
+Os campos starts e business_id estão presentes no arquivo yelp_academic_dataset_review.json.
+
+Sugestões: 
+Utilize um sistema de mensageria entre o script de publicação dos dados com o script que irá consumir os dados.
+Tente realizar o cálculo em tempo real.
+ 
+#########  Para executar o teste:
 
 Requisitos para execução dos arquivos:
 
